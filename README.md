@@ -3,7 +3,7 @@
 Capstone Project
 
 
-Idea: Creating a make-believe donut shop called “Local Donuts,” where users can place pick-up and to-go orders.
+Idea: Creating a make-believe donut shop called “Local Donuts,” where users can place pick-up and delivery orders.
 
 
 MVP:
