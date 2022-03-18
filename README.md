@@ -8,19 +8,19 @@ Idea: Creating a make-believe donut shop called “Local Donuts,” where users 
 
 MVP:
 
-•	Users can signup and create a login
+   •	Users can signup and create a login
 
-•	Add items to a cart
+   •	Add items to a cart
 
-•	Store a favorite order for fast checkout
+   •	Store a favorite order for fast checkout
 
-•	Users can checkout
+   •	Users can checkout
 
-•	Take card payments with Swipe
+   •	Take card payments with Swipe
 
 
 Future Features:
 
-•	Rate products
+   •	Rate products
 
-•	Location’s map
+   •	Location’s map
