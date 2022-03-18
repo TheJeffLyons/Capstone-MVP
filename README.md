@@ -17,6 +17,8 @@ MVP:
    •	Users can checkout
 
    •	Take card payments with Swipe
+   
+   -  Hosted on Heroku
 
 
 Future Features:
