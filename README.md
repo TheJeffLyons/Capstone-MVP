@@ -16,7 +16,7 @@ MVP:
 
    •	Users can checkout
 
-   •	Take card payments with Swipe
+   •	Take card payments with Stripe
    
    -  Hosted on Heroku
 
