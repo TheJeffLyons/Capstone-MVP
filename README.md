@@ -26,3 +26,6 @@ Future Features:
    •	Rate products
 
    •	Location’s map
+
+
+![capstone-dbmodel](https://user-images.githubusercontent.com/96084328/159365760-246cb195-6e7c-4c53-8359-96eebe9a6c13.jpeg)
